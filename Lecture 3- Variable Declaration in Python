@@ -1,1 +1,48 @@
+In any programming language , Variables are containers or boxes for storing data values.
+Lets take a simple real world examples. If we have some fruits and some juices , so we store all the fruits in a box and we store all 
+the juice in bottles. We dont store fruit in bottles and we dont store juice in boxes. So from this example we understand that for 
+specific type of things  to be stored we use specific type of containers like box or bottles. In same way in the world of computer 
+programming , we have differnt kind of datatypes like int,float,str. So we store int values in int box(variable), float value in 
+float box (variable), and str value in str box (variable). So to create the variable in programming languages we have to give our variable 
+any name and we have to write the datatype of variable means of which dataype value our variable will store like int or float or str,
+then we can assign value to our variable to store inside it.
+
+********* Some examples of Declaring or Creating variables in programming languages***************************************************************
+
+ [ EXAMPLE 1 ] int x = 21 
+ In the above example, on left side of assignment operator(=) , we have int that tell computer about datatype of variable x,
+ then after int we have x that is the name of our variable, and on right side of our assignment operator we have 21. Means now 
+ our x variable has a value of 21. 
+ 
+ [ EXAMPLE 2 ] float y = 21.78 
+ In the above example, on left side of assignment operator(=) , we have float that tell computer about datatype of variable y,
+ then after float we have y that is the name of our variable, and on right side of our assignment operator we have 21.78 Means now 
+ our y variable has a value of 21.78 
+ 
+ [ EXAMPLE 3 ] str country = "Mars nation"
+ In the above example, on left side of assignment operator(=) , we have str that tell computer about datatype of variable country,
+ then after str we have country that is the name of our variable, and on right side of our assignment operator we have "Mars nation".
+ Means now our country variable has a value of "Mars nation". 
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+********************    RULES TO CREATE OR DECLARE VARIABLES IN PYTHON      ************************************************
+RULE 1 :- In python programming language , we dont have to specify the data type of the variable like int or float or str.
+RULE 2 :- String variables can be declared either by using single or double quotes and int and float variables dont need quotes.
+RULE 3 :- A variable can have a short name like x and y or a more descriptive name height, bikename, total_heihgt.
+RULE 4 :- A variable name must start with a letter or the underscore character.
+RULE 5 :- A variable name cannot start with a number.
+RULE 6 :- A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ ).
+RULE 7 :-Variable names are case-sensitive (age, Age and AGE are three different variables).
+-----------------------------------------------------------------------------------------------------------------------------------------
+********* PROGRAMMES ON VARIABLES ****************
+-----------------------------------------------------------------------------------------------------------------------------------------
+(1) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME X AND Y AND ASSIGN VALUE 20 TO X AND ASSIGN VALUE 30 TO Y AND THEN USE PRINT
+FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" x = 20
+    y = 30
+    print(x+y) """
+
+
+
+
 
