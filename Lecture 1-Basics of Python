@@ -42,7 +42,7 @@ pow()
 open()
 
 Now lets look at the first function print(). This function is used in python to print the given input value on the screen. we give input 
-value in the () on print() function. and then the print() function do so computation on the given input and gives us some output.
+value in the () on print() function. and then the print() function do some computation on the given input and gives us some output.
 
 PYTHON PROGRAMMS THAT USE PRINT FUNCTION-----------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------
