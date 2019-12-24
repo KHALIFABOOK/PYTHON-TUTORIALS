@@ -41,7 +41,13 @@ FUNCTION TO ADD BOTH OF THESE VARIABLES.
 """ x = 20
     y = 30
     print(x+y) """
-
+----------------------------------------------------------------------------------------------------------------------------------------
+(1) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
