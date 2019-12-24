@@ -50,22 +50,20 @@ FUNCTION TO ADD BOTH OF THESE VARIABLES.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 (3) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME carprice AND petrolcost AND ASSIGN VALUE 2000 TO carprice AND ASSIGN VALUE 
-3000 TO petrolcost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+3000 TO petrolcost AND THEN USE PRINT FUNCTION TO substract BOTH OF THESE VARIABLES.
 """ carprice = 2000
     petrolcost = 3000
     print(carprice-petrolcost) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(4) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(4) WRITE A PYTHON PROGRAM TO DECLARE ONE VARIABLES OF NAME X AND  ASSIGN VALUE 300 TO X AND THEN USE PRINT FUNCTION TO 
+PRINT VALUE OF X VARIABLE.
+""" x = 300
+    print(x) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(5) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(5)  WRITE A PYTHON PROGRAM TO DECLARE ONE VARIABLES OF NAME Y AND  ASSIGN ANY string  TO Y AND THEN USE PRINT FUNCTION TO 
+PRINT VALUE OF Y VARIABLE.
+""" y = " Hello world i m going to be a khalifa in coding very soon"
+    print(y) """
 ----------------------------------------------------------------------------------------------------------------------------------------
 (6) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
 300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
