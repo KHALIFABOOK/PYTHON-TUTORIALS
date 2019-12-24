@@ -1,0 +1,40 @@
+COMMENTS IN PYTHON:-
+
+COMMENTS are used in every programming language .Comments are wriiten in the programs to remember which code does which 
+action. Comments are written within the program and the compiler or intrepreter ignores comments. Some times we have thousands of lines 
+of code in our software or website or app , lets conside we have ecommerce app like amazon now in amazon app there is lots of code
+written to do specific job like some code to register users, some code to display products, some code to make payments, etc so there
+is going to be huge lines of code , now next time if we open our code project we should be able to easily find which code does which 
+job. so inside that  code we use comments to remember the use of that specific lines of code and if some other programmer comes to work
+in our project , then this comments will explain them what a specific code does in that project.Comments can be used to make the code 
+more readable.
+-------------------------------------------------------------------------------------------------------------------------------------------
+THINGS TO REMEMBER ABOUT PYTHON COMMENTS--
+-------------------------------------------------------------------------------------------------------------------------------------------
+(1)In python, single line comments starts with #(hash) symbol.
+EXAMPLE- # this is a single in comment in python.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(2)In python , multiline comments starts and ends with double quotes three times at starting of the comment and double quotes three times
+at the ending of the comment.
+EXAMPLE- """ THIS IS A 
+MULTILINE comment 
+in python programming language"""
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+PROGRAMMS
+------------------------------------------------------------------------------------------------------------------------------------------
+(1) Write a python program to print "Hello world" and add comment to it that tells "following print function is used to display output"?
+# following print function is used to display output
+print("Hellow world")
+-------------------------------------------------------------------------------------------------------------------------------------------
+(2) Write a python program to print "khalifa" and add comment to it that tells "khalifa is one who rules the world"?
+# khalifa is one who rules the world
+print("khalifa")
+-------------------------------------------------------------------------------------------------------------------------------------------
+(3) Write a python program to print "khalifa" and add multiline comment to it? 
+""" THis is my 
+multiline comment 
+in python programming and compiler will ignore it 
+thankyou """
+print("khalifa")
+-------------------------------------------------------------------------------------------------------------------------------------------
