@@ -42,13 +42,61 @@ FUNCTION TO ADD BOTH OF THESE VARIABLES.
     y = 30
     print(x+y) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(1) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+(2) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
 300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
 """ fruitcost = 200
     juicecost = 300
     print(fruitcost+juicecost) """
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+(3) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME carprice AND petrolcost AND ASSIGN VALUE 2000 TO carprice AND ASSIGN VALUE 
+3000 TO petrolcost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" carprice = 2000
+    petrolcost = 3000
+    print(carprice-petrolcost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(4) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(5) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(6) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(7) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(8) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(9) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
+(10) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
+300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
+""" fruitcost = 200
+    juicecost = 300
+    print(fruitcost+juicecost) """
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
