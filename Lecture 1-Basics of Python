@@ -1,0 +1,78 @@
+(A) PYTHON IS A CASAE SENSITIVE LANGUAGE.
+Upper case letters means capital letters like [A,B,F,G,R,C,H,F,D,DF,FDDDD,FGF] and 
+Lower  case letters means small  letters like [f,t,e,a,b,c,r,hyh,hh,fff,tgyyfgfhght,grgryeerhr,jyujyi7yr,serr,rstgry,rgrg]. Python is case 
+sensitive means if the uppercase and lowercase characters are differnt of same word, it means that,
+that same word is not equal. For example [KHALIFA] is not equal to [khalifa] , [MANGO] is not equal to [MANgo] , 
+[ocean] is not equal to [Ocean] , [VINAY] is not equal to [ViNaY].
+
+
+
+(B) WHAT ARE DATA TYPES IN PYTHON ?
+First we will try to understand what is data type in programming languages. Data means things , data types means the type of things. 
+In  our real world we have some many types of food like mango, onion, strawberry, pineapple, whine, cucumber, icecream falvours like 
+vanilla,chocolate, butterskotch,meat, fish , eggs, chicken. But we humans categorised the food into food tyoes like veg food, nonveg food,
+fruits, drinks,icereams,etc. So we humans has categorised the food items into food types like veg,nonveg,fruits,drinks,icereams. 
+Now in same way the computers has made the categories of things or data  to understand properly.So in computers we type things like numbers
+(1,8,5,6,5,5), so some text like(hello, hey bro how are you). So we are giving computer data like number or sentence , the computer 
+understand this data like numbers or sentences by their data types. 
+There are many data types in python but here at beginning we need to know only 3 data types.  
+
+(1)int- int is a datatype in phyhon which has any integer values or data like numbers without decimal point. Examples of int are [1,5,48
+54546464,646453135153465,5341351354531,5345345316415312015345342135453453,53453135453153,1534153,41534,531,3513541,351,351,531,453535344].
+
+(2)float- float is a datatype in phyhon which has any numeric values or data like numbers with decimal point. Examples of float are [1.545,
+545464.64,64645.3135153465,5341351.354531,53453453164.15312015345342135453453,5345313545.3153,153.4153,4.1534,531,3513.541,35.1,35.1,53.1,
+4535.35344].
+
+(3)str- str is a datatype in phython which means string datatype and these has data like any text, or alphabet, sentence, or number 
+that are enclosed in double quotes or single quotes. Examples of str datatype are ["hello i m vinay morey","i love programming","a",
+"james bar is a really good movie"," i like to meet new people"," what is your name"].
+
+
+
+(C) WHAT ARE FUNCTIONS IN PYTHON ? 
+At basic level , we can consider python functions as robots. Robots are the machines that are made to do a specific task. So today we have 
+robots to make machines , robots to make food, robots to cut tress, robots to do a specific task. Python functions are like robots that 
+are designed to do a particular job. 
+
+Following are examples of some python functions that are designed to do specific task.
+print()
+hash()
+pow()
+open()
+
+Now lets look at the first function print(). This function is used in python to print the given input value on the screen. we give input 
+value in the () on print() function. and then the print() function do so computation on the given input and gives us some output.
+
+PYTHON PROGRAMMS THAT USE PRINT FUNCTION-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+(1) Write a python program to print "Hello world" on the screen ?
+#  print("Hello world")
+----------------------------------------------------------------------------------------------------------------------------------------
+(2) Write a python program to print " khalifa book is the best learning app" on the screen?
+#  print(" khalifa book is the best learning app")
+----------------------------------------------------------------------------------------------------------------------------------------
+(3) Write a python program to print "Hello students you are going to be a great programmers" on the screen ?
+#  print("Hello students you are going to be a great programmers")
+----------------------------------------------------------------------------------------------------------------------------------------
+(4) Write a python program to print "i live in india and dubai and goa" on the screen ?
+#  print("i live in india and dubai and goa")
+----------------------------------------------------------------------------------------------------------------------------------------
+(5) Write a python program to print "i like python programming " on the screen ?
+#  print("i like python programming ")
+----------------------------------------------------------------------------------------------------------------------------------------
+(6) Write a python program to add two numbers 5 and 10 ?
+#  print(5+10)
+----------------------------------------------------------------------------------------------------------------------------------------
+(7) Write a python program to multiply  two numbers 22 and 10  ?
+#  print(22*10)
+----------------------------------------------------------------------------------------------------------------------------------------
+(8) Write a python program to substract of two numbers 100 and 50?
+#  print(100-50)
+----------------------------------------------------------------------------------------------------------------------------------------
+(9) Write a python program to  add any three numbers ?
+#  print(55+10+85)
+----------------------------------------------------------------------------------------------------------------------------------------
+(10) Write a python program to print "my weight is 100pounds" on the screen ?
+#  print(" "my weight is 100pounds")
+----------------------------------------------------------------------------------------------------------------------------------------
