@@ -71,30 +71,69 @@ PRINT VALUE OF Y VARIABLE.
     juicecost = 300
     print(fruitcost+juicecost) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(7) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(7) WRITE A PYTHON PROGRAM TO DECLARE THREE VARIABLES OF NAME vinay AND ashok AND  morey ASSIGN VALUE 200 TO vinay AND ASSIGN VALUE 
+300 TO ashok AND 500 to morey and  THEN USE PRINT FUNCTION TO ADD THESE VARIABLES.
+""" vinay, ashok, morey = "200", "300", "500"
+print(vinay)
+print(ashok)
+print(morey) """
+# same program can be written as
+""" vinay = 200
+    ashok = 300
+    morey = 500
+print(vinay)
+print(ashok)
+print(morey) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(8) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(8)  WRITE A PYTHON PROGRAM TO DECLARE THREE VARIABLES OF NAME vinay AND ashok AND  morey ASSIGN VALUE 500 TO vinay AND ASSIGN VALUE 
+500 TO ashok AND 500 to morey and  THEN USE PRINT FUNCTION TO ADD THESE VARIABLES.
+""" vinay, ashok, morey = "500", "500", "500"
+print(vinay)
+print(ashok)
+print(morey) """
+# same program can be written as
+""" vinay = 500
+    ashok = 500
+    morey = 500
+print(vinay)
+print(ashok)
+print(morey) """
 ----------------------------------------------------------------------------------------------------------------------------------------
-(9) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(9) Write a python program to combine both text and a variable? Tip=  Python uses the + character:
+vinay = "awesome"
+print("Python is " + vinay)
 ----------------------------------------------------------------------------------------------------------------------------------------
-(10) WRITE A PYTHON PROGRAM TO DECLARE TWO VARIABLES OF NAME fruitcost AND juicecost AND ASSIGN VALUE 200 TO fruitcost AND ASSIGN VALUE 
-300 TO juicecost AND THEN USE PRINT FUNCTION TO ADD BOTH OF THESE VARIABLES.
-""" fruitcost = 200
-    juicecost = 300
-    print(fruitcost+juicecost) """
+(10) WRITE A PYTHON PROGRAM TO add a variable to another variable of string datatype ?
+a = "vinay"
+b = "morey"
+print(a+b)
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-
-
+(11) WRITE A PYTHON PROGRAM TO add a variable to another variable of string datatupe and add space between the output of these variables? 
+a = "vinay"
+b = "morey"
+print(a +" " + b)
+-----------------------------------------------------------------------------------------------------------------------------------------
+(12) WRITE A PYTHON PROGRAM TO add a variable to another variable of number datatype ? 
+a = 50
+b = 100
+print(a + b)
+----------------------------------------------------------------------------------------------------------------------------------------
+(13) WRITE A PYTHON PROGRAM TO substract a variable from another variable of number datatype ? 
+a = 50
+b = 100
+print(a - b)
+----------------------------------------------------------------------------------------------------------------------------------------
+(14) WRITE A PYTHON PROGRAM TO multiply a variable to another variable of number datatype ? 
+a = 50
+b = 100
+print(a * b)
+----------------------------------------------------------------------------------------------------------------------------------------
+(15) WRITE A PYTHON PROGRAM TO divide a variable to another variable of number datatype ? 
+a = 50
+b = 100
+print(a / b)
+----------------------------------------------------------------------------------------------------------------------------------------
+(16) WRITE A PYTHON PROGRAM TO add a variable of string datatype to another variable of number datatype and you will get error? 
+a = 22
+b = "vinay"
+print(a + b)
