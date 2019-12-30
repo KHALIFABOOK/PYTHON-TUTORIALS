@@ -1,1 +1,25 @@
-
+(1) WHAT ARE MODULES IN PYTHON?
+We know in programming languages we have functions. Functions are piece or block of code that perform some specific task. So there are 
+some functions that perform task that is similar to a particular topic. Like The car can have functions like to start(), move(), 
+stop() ,etc. 
+So these functions that have similar task are placed together in a file and these files are called as Modules. So Modules are files, that 
+contains some functions that we can use in our programs for specific task. The functions in modules are called as methods.
+But We Will call them functions only in this book to avoid confusion.
+-------------------------------------------------------------------------------------------------------------------------------------------
+(2) How to write Function and  module  in python program?
+# Following code shows to write module and function in python
+# import modulename
+# v = modulename.functionname()
+# print(v)
+# First line use import keyword in python. import keyword is used to import python modules in our program. 
+# Second line declares variable called as v and assigns it a value of that code on right hand. 
+# Third line prints the value in variable  v. 
+                 OR
+# Following code shows to use module and function in python without declaring variable.
+# import modulename
+# print(modulename.functionname())                 
+-------------------------------------------------------------------------------------------------------------------------------------------
+(3) What is the use of random module ?
+Random is a Python built-in module that you can use to make random numbers. 
+-------------------------------------------------------------------------------------------------------------------------------------------
+*******************************************************PROGRAMMS***************************************************************************
